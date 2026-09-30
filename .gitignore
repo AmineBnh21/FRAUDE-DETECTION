@@ -1,0 +1,13 @@
+# Données Elliptic (trop volumineuses pour GitHub, à télécharger depuis Kaggle)
+elliptic_txs_*.csv
+data/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Résultats mis en cache par le notebook
+cache/
